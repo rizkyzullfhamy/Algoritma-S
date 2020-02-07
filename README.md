@@ -1,7 +1,7 @@
-#============Structure Data Algorithm=================#
+#============Data Structure Algorithm=================#
 
 
-Structured Data Algorithm With C/C++ Programming Language. 
+Data Structured Algorithm With C/C++ Programming Language. 
 
 It's a Logic Algorithm SUBTREE and Dijkstra. So Simply And Very Fun.
 
